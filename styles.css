@@ -1,0 +1,26 @@
+.aqua,
+.kazuma,
+.darkness,
+.megumin,
+.reset {
+    display: none;
+}
+
+.darkness {
+    height: 20em;
+}
+
+img {
+    display: flex;
+    margin: 0px auto 0px auto;
+    border: solid white 5px;
+
+}
+
+body {
+    background-color: #c5e8ec;
+}
+
+h1 {
+    text-align: center;
+}
